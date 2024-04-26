@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/YourExecutableName.dir/src/Good.cpp.o CMakeFiles/YourExecutableName.dir/src/MySQL.cpp.o CMakeFiles/YourExecutableName.dir/src/main.cpp.o -o ../bin/YourExecutableName 

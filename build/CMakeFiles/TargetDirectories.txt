@@ -1,0 +1,3 @@
+/mnt/Share/Work/Project/Search_Engine/Good/build/CMakeFiles/YourExecutableName.dir
+/mnt/Share/Work/Project/Search_Engine/Good/build/CMakeFiles/edit_cache.dir
+/mnt/Share/Work/Project/Search_Engine/Good/build/CMakeFiles/rebuild_cache.dir
